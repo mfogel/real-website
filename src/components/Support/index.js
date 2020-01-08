@@ -184,7 +184,7 @@ export default function FooterComponent() {
                   <img src={`${process.env.PUBLIC_URL}/assets/icon-6.svg`} className={classes.icon} alt="" />
                   If you’re a developer, please help us code! Our platform is fully OpenSource and on Github. Meaningful contributions will be compensated!
                 </Typography>
-                <Button component={Link} className={classes.buttonGitHub} href="#" color="inherit">GitHub</Button>
+                <Button component={Link} className={classes.buttonGitHub} href="https://github.com/real-social-media" color="inherit">GitHub</Button>
               </Paper>
             </Grid>
             
