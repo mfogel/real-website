@@ -143,9 +143,6 @@ export default function HeaderComponent() {
                 <Button component={Link} className={classes.linkNav} href="#naming" color="inherit">”REAL”</Button>
               </li>
               <li className={classes.listMenus}>
-                <Button component={Link} className={classes.linkNav} href="#funding" color="inherit">Funding</Button>
-              </li>
-              <li className={classes.listMenus}>
                 <Button component={Link} className={classes.linkNav} href="#competitors" color="inherit">Competitors</Button>
               </li>
               <li className={classes.listMenus}>

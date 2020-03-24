@@ -111,7 +111,7 @@ export default function MissionComponent() {
             <Grid className={classes.mission} item md={6}>
               <Paper className={classes.paper}>
                 <Typography className={classes.typo}>
-                   REAL is the healthier social media movement. It's a camera app & social media platform designed with mental health in mind. No ads, no filters, & no likes.
+                   REAL is the healthier social media movement. It's a camera app & social media platform designed with mental health in mind. No filters & no ads.
                 </Typography>
               </Paper>
             </Grid>
