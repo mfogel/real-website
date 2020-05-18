@@ -4,7 +4,7 @@ The REAL-Website
 
 ## Initialization
 
-Run `yarn init` in the root of the repository to install required packages.
+Run `yarn install` in the root of the repository to install required packages.
 
 For deployment, you will need command-line access to the AWS environment you wish to deploy to. This is usually this is done by setting up the appropriate [AWS credentials file](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html).
 
