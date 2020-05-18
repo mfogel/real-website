@@ -28,8 +28,8 @@ custom:
         files:
           - source: ./build/
             globs:
-              - '*'
-              - '**/*'
+              - '.well-known/*'
+              - '**'
 
   cloudfrontInvalidate:
     distributionIdKey: CloudFrontWebsiteDistributionId
