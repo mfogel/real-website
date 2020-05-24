@@ -34,7 +34,7 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `sls deploy`
+### `yarn deploy`
 
 Deploys the website from the `build` folder. See the [serverless documentation](https://serverless.com/framework/docs/providers/aws/cli-reference/deploy/) for the full set of options available. Note that `--stage` defaults to **production** if unset.
 
