@@ -23,13 +23,17 @@ custom:
   assets:
     auto: true
     targets:
-      - bucket:
-          Ref: WebsiteBucket
+      - bucket: !Ref WebsiteBucket
         files:
           - source: ./build/
             globs:
-              - '.well-known/*'
               - '**'
+      - bucket: !Ref WebsiteBucket
+        files:
+          - source: ./build/
+            defaultContentType: application/json
+            globs:
+              - '.well-known/apple-app-site-association'
 
   cloudfrontInvalidate:
     distributionIdKey: CloudFrontWebsiteDistributionId
