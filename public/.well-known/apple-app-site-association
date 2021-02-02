@@ -1,16 +1,31 @@
 {
   "applinks": {
     "apps": [],
-    "details": [{
-      "appID": "YA5Y244F5C.app.real.mobile",
-      "paths": [
-        "/confirm/*",
-        "/user/*",
-        "/post/*",
-        "/comment/*",
-        "/chat/*",
-        "/chatMessage/*"
-      ]
-    }]
+    "details": [
+      {
+        "appID": "YA5Y244F5C.app.real.mobile",
+        "paths": [
+          "/confirm/*",
+          "/user/*",
+          "/post/*",
+          "/comment/*",
+          "/chat/*",
+          "/chatMessage/*",
+          "/signup/*"
+        ]
+      },
+      {
+        "appID": "YA5Y244F5C.app.real.mobile.staging",
+        "paths": [
+          "/confirm/*",
+          "/user/*",
+          "/post/*",
+          "/comment/*",
+          "/chat/*",
+          "/chatMessage/*",
+          "/signup/*"
+        ]
+      }
+    ]
   }
 }
