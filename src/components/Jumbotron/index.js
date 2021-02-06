@@ -145,10 +145,10 @@ export default function JumbotronComponent() {
 
         <div className={classes.promotion}>
           <Typography variant="h3" className={classes.subtitle} gutterBottom>
-            REAL <strong> analyzes, verifies,</strong> & <strong>marks</strong> undoctored social media posts.
+	    Social media platforms have become superficial & unhealthy.
           </Typography>
           <Typography variant="h3" className={classes.subtitle} gutterBottom>
-            REAL is also <strong>Filter-Free</strong> & <strong>Ad-Free</strong> social media.
+	    REAL is a safe place to be yourself.
           </Typography>
         </div>
 
@@ -156,10 +156,11 @@ export default function JumbotronComponent() {
           <div className={classes.button}>
             <Link href="https://apps.apple.com/us/app/real-social-media/id1485194570?ls=1"><img src={`${process.env.PUBLIC_URL}/assets/appstore.png`} className={classes.store} alt="" /></Link>
           </div>
-
+{/*
           <div className={classes.button}>
             <Link href="/android_coming_soon.html"><img src={`${process.env.PUBLIC_URL}/assets/playstore.png`} className={classes.store} alt="" /></Link>
           </div>
+*/}
         </div>
       </div>
       <Typography className={classes.scrollTo}>

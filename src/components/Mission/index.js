@@ -105,13 +105,13 @@ export default function MissionComponent() {
           </Typography>
 
           <Typography variant="h4" className={classes.caption}>
-            Our mission is to help you promote a <strong>honest, healthy, & filter free lifestyle.</strong>
+	  Social apps stopped being “social” and started becoming <strong>superficial & stressful</strong>.
           </Typography>
           <Grid className={classes.missions} container spacing={4} direction="row" justify="center" alignItems="stretch">
             <Grid className={classes.mission} item md={6}>
               <Paper className={classes.paper}>
                 <Typography className={classes.typo}>
-                   REAL is the healthier social media movement. It's a camera app & social media platform designed with mental health in mind. No filters & no ads.
+	           REAL is a social platform which makes an effort to detect & promote photos without filters or photoshop. You’re more likely to trend on real by being yourself. It's a mentally healthy place to be you!
                 </Typography>
               </Paper>
             </Grid>
@@ -119,7 +119,7 @@ export default function MissionComponent() {
             <Grid className={classes.mission} item md={6}>
               <Paper className={classes.paper}>
                 <Typography className={classes.typo}>
-                  REAL will also instantly verify filter-free, blur-free, and high quality photos/videos, giving you a certificate sticker and link to place in your story, post or bio on any social media platform.
+	          Create and share real photos, stories, and videos with the family, friends and followers you care about or find love on REAL Dating.
                 </Typography>
               </Paper>
             </Grid>

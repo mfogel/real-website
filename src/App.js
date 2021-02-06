@@ -69,6 +69,7 @@ export default function App() {
       <div id="mission">
         <MissionComponent />
       </div>
+{/*
       <div id="privacy">
         <PrivacyComponent />
       </div>
@@ -84,6 +85,8 @@ export default function App() {
       <div id="competitors">
         <CompetitorsComponent />
       </div>
+*/}
+
       <div id="support">
         <SupportComponent />
       </div>

@@ -169,10 +169,11 @@ export default function FooterComponent() {
                     <div className={classes.button}>
                       <Link href="https://apps.apple.com/us/app/real-social-media/id1485194570?ls=1"><img src={`${process.env.PUBLIC_URL}/assets/appstore.png`} className={classes.store} alt="" /></Link>
                     </div>
-
+{/*
                     <div className={classes.button}>
                       <Link href="/android_coming_soon.html"><img src={`${process.env.PUBLIC_URL}/assets/playstore.png`} className={classes.store} alt="" /></Link>
                     </div>
+*/}
                   </div>
                 </Typography>
               </Paper>
