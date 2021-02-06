@@ -103,10 +103,6 @@ export default function MissionComponent() {
           <Typography variant="h3" className={classes.sectionHeading}>
             Our <strong>Mission</strong>:
           </Typography>
-
-          <Typography variant="h4" className={classes.caption}>
-	  Social apps stopped being “social” and started becoming <strong>superficial & stressful</strong>.
-          </Typography>
           <Grid className={classes.missions} container spacing={4} direction="row" justify="center" alignItems="stretch">
             <Grid className={classes.mission} item md={6}>
               <Paper className={classes.paper}>

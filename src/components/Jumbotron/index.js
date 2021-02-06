@@ -145,7 +145,7 @@ export default function JumbotronComponent() {
 
         <div className={classes.promotion}>
           <Typography variant="h3" className={classes.subtitle} gutterBottom>
-	    Social media platforms have become superficial & unhealthy.
+	    Social media platforms have become superficial & stressful.
           </Typography>
           <Typography variant="h3" className={classes.subtitle} gutterBottom>
 	    REAL is a safe place to be yourself.
