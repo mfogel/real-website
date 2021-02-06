@@ -107,7 +107,7 @@ export default function MissionComponent() {
             <Grid className={classes.mission} item md={6}>
               <Paper className={classes.paper}>
                 <Typography className={classes.typo}>
-	           REAL is a social platform which makes an effort to detect & promote photos without filters or photoshop. You’re more likely to trend on real by being yourself. It's a mentally healthy place to be you!
+	           REAL is a social platform which makes an effort to detect & promote photos without filters or photoshop. You’re more likely to trend on real by being yourself.
                 </Typography>
               </Paper>
             </Grid>
@@ -115,7 +115,7 @@ export default function MissionComponent() {
             <Grid className={classes.mission} item md={6}>
               <Paper className={classes.paper}>
                 <Typography className={classes.typo}>
-	          Create and share real photos, stories, and videos with the family, friends and followers you care about or find love on REAL Dating.
+	          It's a mentally healthy place to be you! Create and share real photos, stories, and videos with the family, friends and followers you care about or find love on REAL Dating.
                 </Typography>
               </Paper>
             </Grid>
