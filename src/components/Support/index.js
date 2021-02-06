@@ -178,7 +178,7 @@ export default function FooterComponent() {
                 </Typography>
               </Paper>
             </Grid>
-
+{/*
             <Grid className={classes.mission} item>
               <Paper className={classes.paper}>
                 <Typography className={classes.typo}>
@@ -188,7 +188,7 @@ export default function FooterComponent() {
                 <Button component={Link} className={classes.buttonGitHub} href="https://github.com/real-social-media" color="inherit">GitHub</Button>
               </Paper>
             </Grid>
-            
+*/}            
           </Grid>
         </div>
       </div>
