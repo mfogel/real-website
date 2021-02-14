@@ -80,24 +80,24 @@ export default function SupportComponent() {
               <ListItem className={classes.links} button component="a" href="#id">
                 What
               </ListItem>
-              <ListItem className={classes.links} button component="a" href="#naming">
+{/*           <ListItem className={classes.links} button component="a" href="#naming">
                 Free
-              </ListItem>
+              </ListItem> */}
               <ListItem className={classes.links} button component="a" href="#mission">
                 Mission
               </ListItem>
-              <ListItem className={classes.links} button component="a" href="#funding">
+{/*           <ListItem className={classes.links} button component="a" href="#funding">
                 The Name REAL
-              </ListItem>
-              <ListItem className={classes.links} button component="a" href="#privacy">
+              </ListItem> */}
+{/*           <ListItem className={classes.links} button component="a" href="#privacy">
                 Secure
-              </ListItem>
-              <ListItem className={classes.links} button component="a" href="#competitors">
+              </ListItem> */}
+{/*           <ListItem className={classes.links} button component="a" href="#competitors">
                 Competitors
-              </ListItem>
-              <ListItem className={classes.links} button component="a" href="#subscription">
+              </ListItem> */}
+{/*           <ListItem className={classes.links} button component="a" href="#subscription">
                 Funding
-              </ListItem>
+              </ListItem> */}
               <ListItem className={classes.links} button component="a" href="#support">
                 Support Us
               </ListItem>

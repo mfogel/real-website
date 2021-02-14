@@ -134,16 +134,16 @@ export default function HeaderComponent() {
                 <Button component={Link} className={classes.linkNav} href="#mission" color="inherit">Mission</Button>
               </li>
               <li className={classes.listMenus}>
-                <Button component={Link} className={classes.linkNav} href="#privacy" color="inherit">Secure</Button>
+{/*               <Button component={Link} className={classes.linkNav} href="#privacy" color="inherit">Secure</Button>*/}
               </li>
               <li className={classes.listMenus}>
-                <Button component={Link} className={classes.linkNav} href="#subscription" color="inherit">Free</Button>
+{/*                <Button component={Link} className={classes.linkNav} href="#subscription" color="inherit">Free</Button> */}
               </li>
               <li className={classes.listMenus}>
-                <Button component={Link} className={classes.linkNav} href="#naming" color="inherit">”REAL”</Button>
+{/*                <Button component={Link} className={classes.linkNav} href="#naming" color="inherit">”REAL”</Button> */}
               </li>
               <li className={classes.listMenus}>
-                <Button component={Link} className={classes.linkNav} href="#competitors" color="inherit">Competitors</Button>
+ {/*               <Button component={Link} className={classes.linkNav} href="#competitors" color="inherit">Competitors</Button> */}
               </li>
               <li className={classes.listMenus}>
                 <Button component={Link} className={classes.linkNav} href="#support" color="inherit">Support Us</Button>
