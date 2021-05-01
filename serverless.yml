@@ -36,16 +36,16 @@ custom:
               - '.well-known/apple-app-site-association'
 
   cloudfrontInvalidate:
-    distributionIdKey: CloudFrontWebsiteDistributionId
-    items:
-      - /.well-known/apple-app-site-association
-      - /favicon.ico
-      - /index.html
-      - /manifest.json
-      - /real-privacy-policy-html-english.html
-      - /real-terms-service-html-english.html
-      - /real-eula-html-english.html
-      - /privacy.html
+    - distributionIdKey: CloudFrontWebsiteDistributionId
+      items:
+        - /.well-known/apple-app-site-association
+        - /favicon.ico
+        - /index.html
+        - /manifest.json
+        - /real-privacy-policy-html-english.html
+        - /real-terms-service-html-english.html
+        - /real-eula-html-english.html
+        - /privacy.html
 
 resources:
   Resources:
